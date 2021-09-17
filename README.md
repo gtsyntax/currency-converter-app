@@ -1,5 +1,5 @@
 # currency-converter-app
 Technologies used
-React
-Styled Components
-https://www.exchangerate-api.com/
+- React
+- Styled Components
+- APi: https://www.exchangerate-api.com/
